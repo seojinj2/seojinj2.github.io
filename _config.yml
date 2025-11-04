@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "seojinj2"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pexels-lastly-1275929.jpg"
   bio              : "이것저것 공부합니다."
   location         : "South Korea"
   email            : 
